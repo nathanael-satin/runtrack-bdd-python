@@ -1,0 +1,1 @@
+ SELECT * FROM etudiants WHERE age BETWEEN 18 and 25 ; SELECT * FROM etudiants ORDER BY age ASC LIMIT 18;

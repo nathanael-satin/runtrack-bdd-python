@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS nombre_etudiants FROM etudiants WHERE age BETWEEN 18 and 25;
